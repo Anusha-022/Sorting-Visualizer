@@ -14,7 +14,7 @@ Achievements:
 Languages used: 
   C++
   
-   SCREENSHOTS:
+    SCREENSHOTS:
 1. Home Screen
 ![image](https://user-images.githubusercontent.com/84312718/187721620-772c405c-ad2d-4bcc-bda2-1169193fbc0a.png)
 
