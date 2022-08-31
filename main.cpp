@@ -171,8 +171,8 @@ int main()
     wprintf(L"\x1b[33m PRESS 1: FOR BUBBLE SORT\r\n");
   //  cout<<"PRESS 1: FOR BUBBLE SORT"<<endl;
     cout<<" PRESS 2: FOR SELECTION SORT"<<endl;
-    cout<<" PRESS 3: FOR INSERTION SORT"<<endl;
-    cout<<" PRESS 4: FOR QUICK SORT"<<endl<<endl;
+   // cout<<" PRESS 3: FOR INSERTION SORT"<<endl;
+   // cout<<" PRESS 4: FOR QUICK SORT"<<endl<<endl;
     cout<<" ENTER YOUR CHOICE: ";
     cin>>choice_of_sorting;
 
